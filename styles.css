@@ -18,7 +18,8 @@ h1 {
     color: #807f17;
     font-family: helvetica;
   }
-  p{
+  
+p {
     background-color: #afae26;
     font-family: helvetica;
     }
@@ -28,6 +29,5 @@ h1 {
     max-width: 80%;
     height: auto;
     margin-left: 75px;
-    margin-bottom: 45px;
-      
+    margin-bottom: 45px;   
   }
