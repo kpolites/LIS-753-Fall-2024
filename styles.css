@@ -1,0 +1,33 @@
+h1 {
+    color: #807f17;
+    font-family: helvetica;
+  }
+  
+  figure {
+    border: 10px solid black;
+    padding: 50px;
+  }
+  
+  figure img {
+      max-width: 100%;
+      height: auto;
+    margin-bottom: 1.25em;
+  }
+  
+  figcaption {
+    color: #807f17;
+    font-family: helvetica;
+  }
+  p{
+    background-color: #afae26;
+    font-family: helvetica;
+    }
+  
+  p img {
+    float: right;
+    max-width: 80%;
+    height: auto;
+    margin-left: 75px;
+    margin-bottom: 45px;
+      
+  }
