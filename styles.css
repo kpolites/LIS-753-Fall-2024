@@ -32,8 +32,8 @@ a{
     color:#807f17
 }
 ul li a{
-    text-decoration: dotted;
+    text-decoration: none;
 }
 ul li a:hover{
-text-decoration: underline;
+text-decoration: dotted;
 }
