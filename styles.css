@@ -2,6 +2,10 @@ h1 {
     color: #807f17;
     font-family: helvetica;
 }
+a {
+    font-family: helvetica;
+    font-size: larger;
+}
 figure {
     border: 10px solid black;
     padding: 50px;
