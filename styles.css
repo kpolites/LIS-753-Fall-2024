@@ -33,6 +33,7 @@ a{
 }
 ul li a{
     text-decoration: none;
+    font-size: larger;
 }
 ul li a:hover{
 text-decoration: dotted;
