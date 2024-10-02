@@ -19,11 +19,11 @@ figure img{
     max-width: 100%;
     height: auto;
     margin-bottom: 12px;
+    border-color:aqua;
 }
 
 figure.main-image {
 background: #807f17;
-border-color:aqua;
 color: white;
 }
 
