@@ -15,6 +15,11 @@ a {
     font-size: larger;
 }
 
+figure {
+    max-width: 100%;
+    border: 1.25em;
+}
+
 figure.main-image {
 background: #807f17;
 border-color:aqua;
