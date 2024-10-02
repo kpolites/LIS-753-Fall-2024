@@ -56,7 +56,7 @@ a{
     color: black;
 }
 ul li a{
-    text-decoration: none;
+    text-decoration:none;
     font-size: larger;
 }
 ul li a:hover{
