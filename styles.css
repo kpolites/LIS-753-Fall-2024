@@ -16,7 +16,6 @@ a {
 }
 
 figure {
-    max-width: 100%;
     border: 1.25em;
 }
 
@@ -36,6 +35,7 @@ figure caption {
     color: #807f17;
     font-family: helvetica;
 }
+
 p {
     font-family: helvetica;
 }
