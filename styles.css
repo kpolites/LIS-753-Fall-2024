@@ -2,6 +2,19 @@ h1 {
     color: #807f17;
     font-family: helvetica;
 }
+
+h1#site-title{
+    color: #807f17;
+    font-family: helvetica;
+    font-size: xx-large;
+}
+
+h1#article-title {
+    color: #807f17;
+    font-family: helvetica;
+    font-size: medium;
+}
+
 a {
     font-family: helvetica;
     font-size: larger;
