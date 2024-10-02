@@ -53,11 +53,12 @@ p img {
 
 a{
     font-weight: bold;
-    color:#807f17;
+    color:black;
 }
 ul li a{
     text-decoration:none;
     font-size: larger;
+    color: #807f17;
 }
 ul li a:hover{
 text-decoration: dotted;
