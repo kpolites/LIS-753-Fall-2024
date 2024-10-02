@@ -15,15 +15,8 @@ a {
     font-size: larger;
 }
 
-figure img {
-    max-width: 100%;
-    height: auto;
-    margin-bottom: 1.25em;
-}
-
 figure.main-image {
 background: #807f17;
-border:black;
 border-color:aqua;
 color: white;
 }
