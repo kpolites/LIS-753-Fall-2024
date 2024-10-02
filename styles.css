@@ -24,7 +24,15 @@ figure img {
     margin-bottom: 1.25em;
 }
 
+figure.main-image {
+background: #807f17;
+border-color:aqua;
+color: white;
+}
 
+figure.section-image {
+
+}
 
 figure caption {
     color: #807f17;
