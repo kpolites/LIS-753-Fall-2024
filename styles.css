@@ -23,6 +23,7 @@ figure img {
 
 figure.main-image {
 background: #807f17;
+border:black;
 border-color:aqua;
 color: white;
 }
@@ -30,8 +31,8 @@ color: white;
 figure.section-image {
 float: right;
 max-width: 320px;
-background:#807f17
-border-color: aqua
+background: #807f17;
+border-color:aqua;
 color: white;
 }
 
