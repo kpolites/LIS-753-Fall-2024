@@ -33,6 +33,9 @@ color: white;
 figure.section-image {
 float: right;
 max-width: 320px;
+background:#807f17
+border-color: aqua
+color: white;
 }
 
 figure caption {
@@ -40,7 +43,6 @@ figure caption {
     font-family: helvetica;
 }
 p {
-    background-color: #afae26;
     font-family: helvetica;
 }
 p img {
@@ -53,7 +55,7 @@ p img {
 
 a{
     font-weight: bold;
-    color:#807f17
+    color: black;
 }
 ul li a{
     text-decoration: none;
