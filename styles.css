@@ -31,6 +31,7 @@ figure.section-image {
 float: right;
 max-width: 320px;
 background: #807f17;
+color: white;
 }
 
 figure caption {
