@@ -14,10 +14,7 @@ a {
     font-family: helvetica;
     font-size: larger;
 }
-figure {
-    border: 10px solid black;
-    padding: 50px;
-}
+
 figure img {
     max-width: 100%;
     height: auto;
