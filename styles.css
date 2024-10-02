@@ -1,13 +1,13 @@
 h1#site-title {
     color: #807f17;
     font-family: helvetica;
-    font-size: x-large;
+    font-size: 72px;
 }
 
 h1#article-title {
     color: #807f17;
     font-family: helvetica;
-    font-size: medium;
+    font-size: 48px;
 }
 
 a {
