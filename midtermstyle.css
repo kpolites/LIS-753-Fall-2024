@@ -52,8 +52,6 @@ a {
 figure img{
     max-width: 100%;
     height: auto;
-    margin-bottom: 12px;
-    border-color:aqua;
 }
 
 figure.main-image {
