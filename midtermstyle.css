@@ -61,13 +61,6 @@ figure.main-image {
     max-width: 550px    
 }
 
-figure.section-image {
-float: right;
-max-width: 320px;
-background: #807f17;
-color: white;
-}
-
 p {
     font-family: helvetica;
 
