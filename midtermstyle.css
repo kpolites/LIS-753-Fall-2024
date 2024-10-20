@@ -1,13 +1,46 @@
 h1#site-title {
     font-size: 72px;
-    color: #807f17;
+    color: black;
     font-family: helvetica;
 }
 
 h1#article-title {
     font-size: 48px;
-    color: #807f17;
+    color: black;
     font-family: helvetica;    
+}
+
+h1#shopping-rooms {
+    font-size: 48px;
+    color: black;
+    font-family: helvetica;
+}
+
+h2#main-room {
+    font-size: 20px;
+    color: black;
+    font-family: helvetica;
+    font-style: italic;
+}
+
+h2#bargain-room {
+    font-size: 20px;
+    color: black;
+    font-family: helvetica;
+    font-style: italic;
+}
+
+h2#childrens-room {
+    font-size: 20px;
+    color: black;
+    font-family: helvetica;
+    font-style: italic;
+}
+
+h1#article-title2 {
+    font-size: 48px;
+    color: black;
+    font-family: helvetica;
 }
 
 a {
@@ -24,8 +57,8 @@ figure img{
 }
 
 figure.main-image {
-      float: right;
-      max-width: 500px    
+    float: right;
+    max-width: 500px    
 }
 
 figure.section-image {
@@ -35,21 +68,9 @@ background: #807f17;
 color: white;
 }
 
-figure caption {
-    color: #807f17;
-    font-family: helvetica;
-    color: white;
-}
-
 p {
     font-family: helvetica;
-}
-p img {
-    float: right;
-    max-width: 80%;
-    height: auto;
-    margin-left: 75px;
-    margin-bottom: 45px;
+
 }
 
 a{
@@ -59,8 +80,9 @@ a{
 ul li a{
     text-decoration:none;
     font-size: larger;
-    color: #807f17;
+    color: black;
 }
+
 ul li a:hover{
 text-decoration: dotted;
 }
