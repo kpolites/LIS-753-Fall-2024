@@ -57,8 +57,7 @@ figure img{
 }
 
 figure.main-image {
-    float: right;
-    max-width: 550px    
+    float: right;  
 }
 
 p {
