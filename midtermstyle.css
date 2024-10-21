@@ -67,5 +67,8 @@ html {
   }
   
   footer#page-footer{
-      font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    border-top: 2px solid DodgerBlue;
+    border-bottom: 2px solid DodgerBlue;
   }
