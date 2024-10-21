@@ -1,17 +1,19 @@
 h1#site-title {
     font-size: 72px;
+    text-align: center;
     color: black;
     font-family: helvetica;
+  
 }
 
 h1#article-title {
-    font-size: 48px;
+    font-size: 40px;
     color: black;
     font-family: helvetica;    
 }
 
 h1#shopping-rooms {
-    font-size: 48px;
+    font-size: 40px;
     color: black;
     font-family: helvetica;
 }
@@ -38,7 +40,7 @@ h2#childrens-room {
 }
 
 h1#article-title2 {
-    font-size: 48px;
+    font-size: 40px;
     color: black;
     font-family: helvetica;
 }
@@ -50,12 +52,9 @@ a {
 }
 
 figure img{
-    max-width: 100%;
-    height: auto;
-}
-
-figure.main-image {
-    float: right;  
+  float: right;  
+  max-width: 55%;
+    max-height: 75%;
 }
 
 p {
@@ -69,7 +68,7 @@ a{
 }
 ul li a{
     text-decoration:none;
-    font-size: larger;
+    font-size: 30px;
     color: black;
 }
 
@@ -77,6 +76,6 @@ ul li a:hover{
 text-decoration: dotted;
 }
 
-footer{
+footer#page-footer{
     font-family: 'Times New Roman', Times, serif;
 }
