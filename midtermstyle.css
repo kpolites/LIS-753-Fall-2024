@@ -35,6 +35,7 @@ html {
   a {
       font-family: helvetica;
       font-size: larger;
+      color: #807f17;
   }
   
   figure img{
@@ -46,7 +47,6 @@ html {
   
   p {
       font-family: helvetica;
-  
   }
   
   a{
@@ -66,8 +66,8 @@ html {
   }
   
   footer#page-footer{
-    font-family: 'Times New Roman', Times, serif;
-    font-style: italic;
-    border-top: 2px solid DodgerBlue;
-    border-bottom: 2px solid DodgerBlue;
+     font-family: 'Times New Roman', Times, serif;
+      font-style: italic;
+      border-top: 2px solid DodgerBlue;
+      border-bottom: 2px solid DodgerBlue; 
   }
