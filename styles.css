@@ -16,21 +16,21 @@ a {
     color: #807f17;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 figure img{
-    max-width: 100%;
-    height: auto;
-    margin-bottom: 12px;
     border-color:aqua;
 }
 
 figure.main-image {
-      float: right;
-      max-width: 500px    
+      float: right;    
 }
 
 figure.section-image {
 float: right;
-max-width: 320px;
 background: #807f17;
 color: white;
 }
@@ -46,10 +46,6 @@ p {
 }
 p img {
     float: right;
-    max-width: 80%;
-    height: auto;
-    margin-left: 75px;
-    margin-bottom: 45px;
 }
 
 a{
