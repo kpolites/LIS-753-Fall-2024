@@ -55,7 +55,7 @@ a{
 
 @media all and (min-width): 376px
 ul li a{
-    text-decoration:none;
+    text-decoration: dotted;
     font-size: larger;
     color: #807f17;
 }
