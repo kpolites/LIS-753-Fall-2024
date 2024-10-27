@@ -53,16 +53,17 @@ a{
     color:black;
 }
 
-@media all and (min-width): 376px {
-ul li a{
+@media screen and (min-width: 376px){}
+    ul li a {
+        display:flex;
+        justify-content: center;
+    
+}
+
+ul li a {
     text-decoration: dotted;
     font-size: larger;
     color: #807f17;
-}
-
-ul li a{
-    list-style: none;
-    padding-left: 0;
 }
 
 ul li a:hover{
